@@ -52,7 +52,13 @@ Changez la couleur de votre page pour celles de la France Insoumise. Cliquez sur
 
 Cliquez sur votre photo à gauche, comme indiqué sur l'image ci-dessous, puis cliquez sur « Envoyer une photo ». Selectionnez la photo que vous souhaitez utiliser pour votre compte.
 
+![Copie d'écran de votre profil Twitter pour changer d'image de profil Twitter - Étape 1](https://cloud.githubusercontent.com/assets/26542691/25719749/c5b067bc-310a-11e7-8af0-d091c7c4abc6.png)
+
+![Copie d'écran de votre profil Twitter pour changer d'image de profil Twitter - Étape 2](https://cloud.githubusercontent.com/assets/26542691/25720804/7cd7efd4-310e-11e7-8e56-563fc6e88dbd.png)
+
 Cliquez sur « Appliquer ».
+
+![Copie d'écran de votre profil Twitter pour changer d'image de profil Twitter - Étape 3](https://cloud.githubusercontent.com/assets/26542691/25720918/e4b331d6-310e-11e7-934f-198485751673.png)
 
 ### Changer votre photo de couverture
 
